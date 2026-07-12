@@ -14,7 +14,7 @@ from openai import OpenAI
 # 配置
 # ============================================================
 CONFIG = {
-    "api_key": "sk-9da26d72cf294bdaae7359a913e6827c",
+    "api_key": "your-ai-apikey",   # 填写自己的api key
     "base_url": "https://api.deepseek.com",
     "model": "deepseek-chat",
     "task_file": "data/tasks.json",
