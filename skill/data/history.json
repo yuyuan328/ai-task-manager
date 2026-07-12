@@ -1,0 +1,12 @@
+[
+  {
+    "task_id": 4,
+    "name": "毛概读书笔记",
+    "subject": "政治",
+    "difficulty": 1,
+    "estimated_hours": 1.5,
+    "actual_hours": 2.0,
+    "deviation": 0.5,
+    "completed_at": "2026-07-12 08:53"
+  }
+]

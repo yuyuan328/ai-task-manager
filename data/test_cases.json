@@ -1,0 +1,42 @@
+[
+    {
+        "name": "高等数学第七章习题",
+        "ddl": "2026-07-14",
+        "estimated_hours": 3.0,
+        "subject": "数学",
+        "difficulty": 4,
+        "expected_output": "AI 应将其排在前两位（DDL 紧迫 + 难度高 + 数学类历史偏差大）"
+    },
+    {
+        "name": "数据结构实验报告",
+        "ddl": "2026-07-12",
+        "estimated_hours": 4.0,
+        "subject": "编程",
+        "difficulty": 4,
+        "expected_output": "AI 应将其排在第一（DDL 最近，仅剩 0 天）"
+    },
+    {
+        "name": "英语四级真题一套",
+        "ddl": "2026-07-13",
+        "estimated_hours": 2.0,
+        "subject": "英语",
+        "difficulty": 2,
+        "expected_output": "AI 应将其排在第三（DDL 较近但难度低）"
+    },
+    {
+        "name": "数据库课程设计报告",
+        "ddl": "2026-07-16",
+        "estimated_hours": 5.0,
+        "subject": "编程",
+        "difficulty": 3,
+        "expected_output": "AI 应建议拆分此任务（耗时长 + 编程类有拖延史）"
+    },
+    {
+        "name": "毛概读书笔记",
+        "ddl": "2026-07-18",
+        "estimated_hours": 1.5,
+        "subject": "政治",
+        "difficulty": 1,
+        "expected_output": "AI 应将其排在最后（DDL 远 + 难度低 + 耗时短）"
+    }
+]

@@ -1,0 +1,14 @@
+{
+    "api_key": "your-deepseek-api-key",
+    "base_url": "https://api.deepseek.com",
+    "model": "deepseek-chat",
+    "task_file": "data/tasks.json",
+    "history_file": "data/history.json",
+    "settings": {
+        "max_tokens": 2000,
+        "temperature": 0.7,
+        "urgency_weight_ddl": 0.4,
+        "urgency_weight_difficulty": 0.3,
+        "urgency_weight_estimated_time": 0.3
+    }
+}

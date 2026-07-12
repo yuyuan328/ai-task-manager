@@ -1,0 +1,52 @@
+[
+    {
+        "task_id": 1,
+        "name": "线性代数第五章作业",
+        "subject": "数学",
+        "difficulty": 4,
+        "estimated_hours": 2.5,
+        "actual_hours": 4.0,
+        "deviation": 1.5,
+        "completed_at": "2026-07-08 22:30"
+    },
+    {
+        "task_id": 2,
+        "name": "Python爬虫小项目",
+        "subject": "编程",
+        "difficulty": 3,
+        "estimated_hours": 3.0,
+        "actual_hours": 2.5,
+        "deviation": -0.5,
+        "completed_at": "2026-07-09 18:00"
+    },
+    {
+        "task_id": 3,
+        "name": "背英语单词Unit5",
+        "subject": "英语",
+        "difficulty": 2,
+        "estimated_hours": 1.0,
+        "actual_hours": 1.2,
+        "deviation": 0.2,
+        "completed_at": "2026-07-09 20:00"
+    },
+    {
+        "task_id": 4,
+        "name": "计算机网络实验报告",
+        "subject": "编程",
+        "difficulty": 3,
+        "estimated_hours": 3.0,
+        "actual_hours": 5.0,
+        "deviation": 2.0,
+        "completed_at": "2026-07-10 23:00"
+    },
+    {
+        "task_id": 5,
+        "name": "马原读书笔记",
+        "subject": "政治",
+        "difficulty": 1,
+        "estimated_hours": 1.0,
+        "actual_hours": 0.8,
+        "deviation": -0.2,
+        "completed_at": "2026-07-11 16:00"
+    }
+]
